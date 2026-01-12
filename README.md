@@ -6,7 +6,7 @@
 📧 Email: aryankhandare2005@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/aryan-khandare  
 🐙 GitHub: https://github.com/aryankhandare  
-🌐 Portfolio: https://aryankhandare.dev  
+🌐 Portfolio: [https://aryankhandare.dev ](https://aryankhandare.netlify.app/) 
 
 ---
 
