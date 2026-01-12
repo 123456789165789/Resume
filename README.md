@@ -126,7 +126,7 @@ Agile Methodology, CI/CD Pipelines, Cloud Computing
 ---
 
 ## 📄 Resume
-👉 **[Click here to view my resume](https://github.com/123456789165789/Resume)**
+👉 **[Click here to view my resume](https://raw.githubusercontent.com/123456789165789/Resume/main/Aryan_Resume.pdf)**
 
 ---
 
